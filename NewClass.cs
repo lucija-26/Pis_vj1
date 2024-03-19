@@ -11,5 +11,6 @@ namespace Pis_vj1
 
         public NewClass() { }
         public int number;
+        public int anotherNumber;
     }
 }
